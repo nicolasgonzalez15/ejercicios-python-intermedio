@@ -1,7 +1,7 @@
 # Ejercicios Python Intermedio
 Prácticas Python Intermedio de curso Tecno 3F
 
-1) Ejercicios de conjuntos.
+1) Ejercicios de conjuntos: tarea_conjuntos.py
 
 
 Nombre: González, Nicolás Ezequiel
