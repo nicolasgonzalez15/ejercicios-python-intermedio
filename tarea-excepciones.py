@@ -62,7 +62,7 @@ def lecturarchivo():
             archivo.write("Línea 1\n")
             archivo.close()
 
-lecturarchivo()
+lecturarchivo() # Si no se usa with, colocar finally con archivo a cerrar
 
 # Ejercicio 5
 # -----------------------------
